@@ -6,8 +6,8 @@
 
 **HTML • CSS • JavaScript • Bootstrap 5**  
 
-A simple and responsive e-commerce website built using HTML5, CSS3, JavaScript, and Bootstrap.This project showcases a clean UI, product cards, categories, and basic front-end interactions.
-
+A clean and responsive e-commerce website built with HTML5, CSS3, vanilla JavaScript, and Bootstrap.
+This project showcases a fast, lightweight, framework-free website with product cards, categories, and basic interactive features.
 ---
 
 ## 🌐 Live Demo
