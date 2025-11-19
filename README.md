@@ -48,4 +48,5 @@ Thanks to everyone who contributed to this project:
 - [Alaa Ibrahim](https://github.com/AlaaIbra-Him)  
 - [Hager Sultan](https://github.com/hagarsultan88) 
 
+![Contributors](https://img.shields.io/badge/contributors-5-blue)
 
