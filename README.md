@@ -39,7 +39,7 @@ A simple and responsive e-commerce website built using HTML5, CSS3, JavaScript, 
 
 ---
 
-## 👥 Contributors
+## 👥 Contributors ![Contributors](https://img.shields.io/badge/contributors-5-blue)
 
 Thanks to everyone who contributed to this project:
 
@@ -48,5 +48,5 @@ Thanks to everyone who contributed to this project:
 - [Alaa Ibrahim](https://github.com/AlaaIbra-Him)  
 - [Hager Sultan](https://github.com/hagarsultan88) 
 
-![Contributors](https://img.shields.io/badge/contributors-5-blue)
+
 
