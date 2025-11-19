@@ -41,5 +41,5 @@ This project showcases a clean UI, product cards, categories, and basic front-en
 
 ---
 
-## 📁 Folder Structure
+
 
