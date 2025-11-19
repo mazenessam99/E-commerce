@@ -39,5 +39,14 @@ A simple and responsive e-commerce website built using HTML5, CSS3, JavaScript, 
 
 ---
 
+## 👥 Contributors
+
+Thanks to everyone who contributed to this project:
+
+- [Mazen Essam](https://github.com/mazenessam99)
+- [Omar Ahmed](https://github.com/omarahmedfcb)
+- [Shahira Helmy](https://github.com/Shahirra)
+- [Alaa Ibrahim](https://github.com/AlaaIbra-Him)  
+- [Hager Sultan](https://github.com/hagarsultan88) 
 
 
