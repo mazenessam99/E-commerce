@@ -13,7 +13,7 @@ This project showcases a clean UI, product cards, categories, and basic front-en
 ---
 
 ## 🌐 Live Demo
-[View Live Demo](#) <!-- Replace # with your live site link if available -->
+(https://charming-raindrop-80e8cb.netlify.app/)
 
 ---
 
